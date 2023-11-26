@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working as Business Data Analyst at Headhuntr.io, a Recruiting Intelligence Platform
   
-- 🔭 Current Project : [Image of Ingredients-to-Recipe : Recipe Generation from Image of Ingredients using Depp Learning]
+- 🔭 Current Project : Image of Ingredients-to-Recipe : Recipe Generation from Image of Ingredients using Deep Learning
   
 - 🌱 I’m currently learning **Computer Vision, Natural Language Processing, Text Generation (LLM)**
   
